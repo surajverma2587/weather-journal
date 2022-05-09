@@ -26,3 +26,13 @@ body {
   width: 100px;
   height: 100px;
 }
+
+.forecast-card {
+  width: 16rem;
+}
+
+@media screen and (max-width: 576px) {
+  .forecast-card {
+    width: 100%;
+  }
+}
