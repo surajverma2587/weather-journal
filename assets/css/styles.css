@@ -17,12 +17,8 @@ body {
   font-family: "Source Sans Pro", sans-serif;
 }
 
-/* .my-navbar {
-  background-color: var(--charcoal);
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
 }
-
-.navbar-light .navbar-nav .nav-link.active,
-.navbar-light .navbar-nav .nav-link,
-.navbar-light .navbar-nav .show > .nav-link {
-  color: var(--maize-crayola);
-} */
