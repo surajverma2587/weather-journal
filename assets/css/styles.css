@@ -16,3 +16,13 @@ body {
   font-family: "Smokum", cursive;
   font-family: "Source Sans Pro", sans-serif;
 }
+
+/* .my-navbar {
+  background-color: var(--charcoal);
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: var(--maize-crayola);
+} */
