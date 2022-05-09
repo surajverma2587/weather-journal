@@ -21,3 +21,8 @@ body {
   padding: 2rem 1rem;
   background-color: #e9ecef;
 }
+
+.weather-icon {
+  width: 100px;
+  height: 100px;
+}
